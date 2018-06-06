@@ -1,0 +1,7 @@
+///<'ace_logistics_uavbattery.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\logistics_uavbattery
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'C2C532D3B873936B402E291982E95B160C6629C6'
+//////</properties>//////

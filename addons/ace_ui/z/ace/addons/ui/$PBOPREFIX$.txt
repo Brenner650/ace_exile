@@ -1,0 +1,7 @@
+///<'ace_ui.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\ui
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '453DD71426AFB5AF2E16935B04617DE29783DE69'
+//////</properties>//////

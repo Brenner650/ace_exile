@@ -1,0 +1,10 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: ace_apl\data\glass_house.rvmat
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Tue Jun 05 23:43:53 2018 : 'file' last modified on Mon Apr 16 21:40:24 2018
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+surfaceInfo = "z\ace\addons\apl\data\glass_House.bisurf";

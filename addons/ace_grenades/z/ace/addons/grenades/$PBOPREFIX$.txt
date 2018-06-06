@@ -1,0 +1,7 @@
+///<'ace_grenades.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\grenades
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '55DBEC579CF0B5F2A193270874E29C65C23EB739'
+//////</properties>//////

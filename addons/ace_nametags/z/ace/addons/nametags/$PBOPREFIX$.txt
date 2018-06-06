@@ -1,0 +1,7 @@
+///<'ace_nametags.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\nametags
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '7AF142D9E5287EBA8BFEAC2BCB2F34F2091D7BFB'
+//////</properties>//////

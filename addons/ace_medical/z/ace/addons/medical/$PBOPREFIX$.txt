@@ -1,0 +1,7 @@
+///<'ace_medical.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\medical
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '2A242E1D74CDC034C7626D04A66EE4EDAAD909B3'
+//////</properties>//////

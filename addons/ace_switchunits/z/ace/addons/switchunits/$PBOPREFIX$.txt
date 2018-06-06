@@ -1,0 +1,7 @@
+///<'ace_switchunits.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\switchunits
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '54B958F756443DA589DEEE6A2CC385BEE82541FA'
+//////</properties>//////

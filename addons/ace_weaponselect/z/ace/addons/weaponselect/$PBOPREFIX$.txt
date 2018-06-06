@@ -1,0 +1,7 @@
+///<'ace_weaponselect.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\weaponselect
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'F47C57608F23F8A171F9AE22C088CBE8788DC876'
+//////</properties>//////

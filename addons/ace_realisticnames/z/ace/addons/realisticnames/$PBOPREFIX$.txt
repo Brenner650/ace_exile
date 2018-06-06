@@ -1,0 +1,7 @@
+///<'ace_realisticnames.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\realisticnames
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '7BE0151A337899E8BC2290EDE246BE3CC8628454'
+//////</properties>//////

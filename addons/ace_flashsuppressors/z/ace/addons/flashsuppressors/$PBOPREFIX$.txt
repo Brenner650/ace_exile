@@ -1,0 +1,7 @@
+///<'ace_flashsuppressors.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\flashsuppressors
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '3D4AAF17FFD93C0D289DA836CD1CFA5C4CFFBB49'
+//////</properties>//////

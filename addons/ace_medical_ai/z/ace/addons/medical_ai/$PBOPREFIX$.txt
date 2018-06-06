@@ -1,0 +1,7 @@
+///<'ace_medical_ai.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\medical_ai
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '48BC9678ACD51A6834F68579254B3146AAF1DD03'
+//////</properties>//////

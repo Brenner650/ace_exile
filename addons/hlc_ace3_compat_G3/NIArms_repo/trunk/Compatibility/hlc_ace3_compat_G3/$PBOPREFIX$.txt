@@ -1,0 +1,6 @@
+///<'hlc_ace3_compat_G3.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=NIArms_repo\trunk\Compatibility\hlc_ace3_compat_G3
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: '15E8C3109C7A6F024144B178C86574939E6B7955'
+//////</properties>//////

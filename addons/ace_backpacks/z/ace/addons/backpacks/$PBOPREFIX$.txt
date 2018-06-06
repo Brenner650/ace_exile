@@ -1,0 +1,7 @@
+///<'ace_backpacks.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\backpacks
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '5EFEAEF39A5FF6B3F5361E89F23E5F038858BAE1'
+//////</properties>//////

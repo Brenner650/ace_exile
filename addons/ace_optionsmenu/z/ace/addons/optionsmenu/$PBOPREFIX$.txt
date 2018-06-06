@@ -1,0 +1,7 @@
+///<'ace_optionsmenu.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\optionsmenu
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '0C3E698491E1E897F2E5E4F28E99D1D22F5A4FDC'
+//////</properties>//////

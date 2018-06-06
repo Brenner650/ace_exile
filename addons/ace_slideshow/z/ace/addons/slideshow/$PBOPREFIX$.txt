@@ -1,0 +1,7 @@
+///<'ace_slideshow.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\slideshow
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '048C300442682986001D16A716195C189985720A'
+//////</properties>//////

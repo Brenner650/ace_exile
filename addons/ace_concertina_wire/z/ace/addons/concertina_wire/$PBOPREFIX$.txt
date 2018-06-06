@@ -1,0 +1,7 @@
+///<'ace_concertina_wire.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\concertina_wire
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '51BE6D79986FDCB2E0F052C6F4A4EEBADFEC7418'
+//////</properties>//////

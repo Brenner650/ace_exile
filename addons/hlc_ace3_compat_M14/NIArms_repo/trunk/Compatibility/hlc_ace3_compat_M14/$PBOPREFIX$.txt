@@ -1,0 +1,6 @@
+///<'hlc_ace3_compat_M14.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=NIArms_repo\trunk\Compatibility\hlc_ace3_compat_M14
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: 'B62EB020E94B0C79B9529022C687BC5A94A3C017'
+//////</properties>//////

@@ -1,0 +1,6 @@
+///<'hlc_ace3_compat_SIGAMT.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=NIArms_repo\trunk\Compatibility\hlc_ace3_compat_SIGAMT
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: '1064F689E6B60379D790FE4F1E839FC86A69B486'
+//////</properties>//////

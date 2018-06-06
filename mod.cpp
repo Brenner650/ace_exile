@@ -1,0 +1,12 @@
+name = "Advanced Exile Combat Environment";
+picture = "logo_ace3_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/acemod/ACE3";
+description = "ACE3 - Version 3.12.2 | Exile - Version 1.0.4";
+logo = "logo_ace3_ca.paa";
+logoOver = "logo_ace3_ca.paa";
+tooltip = "ACE";
+tooltipOwned = "ACE3 Owned";
+overview = "Advanced Combat Enviroment 3 built for Exile";
+author = "ACE3 Team, modified by InclementDeath";
+overviewPicture = "logo_ace3_ca.paa";

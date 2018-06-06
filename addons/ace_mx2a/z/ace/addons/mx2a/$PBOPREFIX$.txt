@@ -1,0 +1,7 @@
+///<'ace_mx2a.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\mx2a
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'A85C02BF2EEEE29673CAEE567AB54353F6313EF2'
+//////</properties>//////

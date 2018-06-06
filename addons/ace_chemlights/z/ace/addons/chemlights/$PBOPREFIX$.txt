@@ -1,0 +1,7 @@
+///<'ace_chemlights.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\chemlights
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '0B0B9754C937BBE7B3B68D111A2CC38E0A2394E9'
+//////</properties>//////

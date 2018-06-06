@@ -1,0 +1,7 @@
+///<'ace_rearm.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\rearm
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '68BE53FFED6CE8297AB3432EDD166BE79DD87F52'
+//////</properties>//////

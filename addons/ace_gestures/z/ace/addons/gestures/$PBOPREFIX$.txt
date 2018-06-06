@@ -1,0 +1,7 @@
+///<'ace_gestures.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\gestures
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'C25806B4FBD5E9DCEC75D953C7D145B2A2E46645'
+//////</properties>//////

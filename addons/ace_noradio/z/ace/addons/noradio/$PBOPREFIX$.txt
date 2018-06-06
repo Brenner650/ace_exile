@@ -1,0 +1,7 @@
+///<'ace_noradio.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\noradio
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '9862D54E93F41C07CF8D4358E2C91B2BF4A8E8A0'
+//////</properties>//////

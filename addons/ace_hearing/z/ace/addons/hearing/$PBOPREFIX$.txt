@@ -1,0 +1,7 @@
+///<'ace_hearing.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\hearing
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'E45DFA951F7DA9EF7415E07A5B1EE24CAF9E23CA'
+//////</properties>//////

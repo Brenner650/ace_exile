@@ -1,0 +1,7 @@
+///<'ace_maverick.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\maverick
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'B4DAA9FC16F6B7E07B7DAA80E0C422D49D0EC895'
+//////</properties>//////

@@ -1,0 +1,7 @@
+///<'ace_trenches.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\trenches
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '67FD3436B4B8D799FB792CF52201C0CFBB518058'
+//////</properties>//////

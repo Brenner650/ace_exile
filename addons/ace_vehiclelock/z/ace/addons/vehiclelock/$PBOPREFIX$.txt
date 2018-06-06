@@ -1,0 +1,7 @@
+///<'ace_vehiclelock.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\vehiclelock
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'DC912F9FB7F615CC49033B57B467F59BD884FA8D'
+//////</properties>//////

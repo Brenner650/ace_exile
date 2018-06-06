@@ -1,0 +1,7 @@
+///<'ace_overpressure.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\overpressure
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '24D0A36DAFC6ED93413FE2E2243466FB160421DF'
+//////</properties>//////

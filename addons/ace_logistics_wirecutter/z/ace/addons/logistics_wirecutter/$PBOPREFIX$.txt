@@ -1,0 +1,7 @@
+///<'ace_logistics_wirecutter.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\logistics_wirecutter
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '943A8A61BB78B8087049E535C75D84DE3940DC5B'
+//////</properties>//////

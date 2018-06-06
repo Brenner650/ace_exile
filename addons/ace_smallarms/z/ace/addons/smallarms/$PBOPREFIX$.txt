@@ -1,0 +1,7 @@
+///<'ace_smallarms.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\smallarms
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '39853881CC301A145DBC548B05D46383729D9DE4'
+//////</properties>//////

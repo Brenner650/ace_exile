@@ -1,0 +1,7 @@
+///<'ace_frag.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\frag
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '16E85160CFA8D047B5C1DC8A7E7CA0904D114659'
+//////</properties>//////

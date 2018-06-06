@@ -1,0 +1,7 @@
+///<'ace_sandbag.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\sandbag
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'C4FDE465D87FF582E1422704A22E2FBDAECC772D'
+//////</properties>//////

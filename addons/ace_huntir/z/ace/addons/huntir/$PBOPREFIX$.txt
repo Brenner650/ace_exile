@@ -1,0 +1,7 @@
+///<'ace_huntir.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\huntir
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '6E6D991A27468288FEF6E02C9A4BBFA97BB5D5B4'
+//////</properties>//////

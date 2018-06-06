@@ -1,0 +1,7 @@
+///<'ace_nightvision.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\nightvision
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '8C467793D2B867040E4EB9F67F6A956C8AAE986A'
+//////</properties>//////

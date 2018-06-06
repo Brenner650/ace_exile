@@ -1,0 +1,7 @@
+///<'ace_kestrel4500.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\kestrel4500
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '289E2D8E72E73D8E37AAA9FEEA48EB3A51D601D2'
+//////</properties>//////

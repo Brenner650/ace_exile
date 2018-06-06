@@ -1,0 +1,7 @@
+///<'ace_advanced_ballistics.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\advanced_ballistics
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '79DB3272560002AB7FC15EB70B663A09E1900A04'
+//////</properties>//////

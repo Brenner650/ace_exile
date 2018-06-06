@@ -1,0 +1,7 @@
+///<'ace_winddeflection.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\winddeflection
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'CC05125F3EC94347F965BFCF7ACA665B132BF069'
+//////</properties>//////

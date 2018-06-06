@@ -1,0 +1,7 @@
+///<'ace_respawn.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\respawn
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '191131E822ACDD082683F9378FA9442ECB78C1B1'
+//////</properties>//////

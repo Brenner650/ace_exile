@@ -1,0 +1,7 @@
+///<'ace_fastroping.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\fastroping
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'E420EE8F97F9F452631FD96048F5165F18B7F680'
+//////</properties>//////

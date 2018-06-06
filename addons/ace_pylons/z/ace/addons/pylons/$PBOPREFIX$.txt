@@ -1,0 +1,7 @@
+///<'ace_pylons.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\pylons
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '362CBBF985D552704DBD9F8F03999EB6CDEF81E1'
+//////</properties>//////

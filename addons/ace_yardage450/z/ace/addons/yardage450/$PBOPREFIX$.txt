@@ -1,0 +1,7 @@
+///<'ace_yardage450.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\yardage450
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '8DDB30BFF5CE7707097DB3601343371326A72E9A'
+//////</properties>//////

@@ -1,0 +1,7 @@
+///<'ace_interaction.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\interaction
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '26100BF582DEAFBACE1F0F6802A98154D0B7FFD9'
+//////</properties>//////

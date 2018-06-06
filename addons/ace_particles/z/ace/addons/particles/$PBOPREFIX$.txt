@@ -1,0 +1,7 @@
+///<'ace_particles.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\particles
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'E4D4885EBB7D10245911FCAE43DA3FFE8937F6EF'
+//////</properties>//////

@@ -1,0 +1,7 @@
+///<'ace_movement.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\movement
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '230528BAB965413A26C4E92B1994B44AF65E945F'
+//////</properties>//////

@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: ace_tracers\data\SLX_GreenTracer_Material.rvmat
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Tue Jun 05 23:44:29 2018 : 'file' last modified on Mon Apr 16 21:50:22 2018
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {0.2,0.8,0.1,1};
+diffuse[] = {0.2,0.8,0.1,1};
+forcedDiffuse[] = {0.2,0.8,0.1,1};
+emmisive[] = {0.2,0.8,0.1,1};
+specular[] = {0.0,0.0,0.0,0.0};
+specularPower = 0.0;
+renderFlags[] = {"NoZWrite","NoAlphaWrite","AddBlend"};
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

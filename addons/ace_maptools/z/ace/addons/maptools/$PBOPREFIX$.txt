@@ -1,0 +1,7 @@
+///<'ace_maptools.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\maptools
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '723A63889A1B834C943A6366176F3B0050CC26B5'
+//////</properties>//////

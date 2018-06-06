@@ -1,0 +1,7 @@
+///<'ace_vector.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\vector
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'E30394CA4BFA9E12C48FBF2F047FECA75933A017'
+//////</properties>//////

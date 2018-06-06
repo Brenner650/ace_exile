@@ -1,0 +1,7 @@
+///<'ace_advanced_throwing.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\advanced_throwing
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '38F1EBA4BC7C7E0640AAB8D75194C1799FE57631'
+//////</properties>//////

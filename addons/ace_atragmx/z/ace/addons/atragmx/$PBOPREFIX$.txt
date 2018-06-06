@@ -1,0 +1,7 @@
+///<'ace_atragmx.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\atragmx
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'ED43405D4402C4AE050AF560A4D02A6AC7830F6F'
+//////</properties>//////

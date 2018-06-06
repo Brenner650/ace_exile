@@ -1,0 +1,7 @@
+///<'ace_cargo.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\cargo
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '846C82E43597DCA15881D943C0B0662B6C617F0B'
+//////</properties>//////

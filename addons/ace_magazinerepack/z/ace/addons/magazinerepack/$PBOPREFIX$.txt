@@ -1,0 +1,7 @@
+///<'ace_magazinerepack.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\magazinerepack
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '684FE99BD58C35BB96549F6EAAE3B25DD3BC6A5D'
+//////</properties>//////

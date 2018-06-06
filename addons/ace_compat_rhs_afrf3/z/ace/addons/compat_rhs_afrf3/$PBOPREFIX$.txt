@@ -1,0 +1,7 @@
+///<'ace_compat_rhs_afrf3.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\compat_rhs_afrf3
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '459E5B0D6F28563E6E35A8A9D43978C8EF4E46F7'
+//////</properties>//////

@@ -1,0 +1,7 @@
+///<'ace_thermals.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\thermals
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'AA02EA63C7DD71C4F4A0A5779E5DF5BE243EF792'
+//////</properties>//////

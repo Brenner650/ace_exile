@@ -1,0 +1,7 @@
+///<'ace_microdagr.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\microdagr
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '6E0CCD46B10D7E352B8918E4BE0C99802A621C4C'
+//////</properties>//////

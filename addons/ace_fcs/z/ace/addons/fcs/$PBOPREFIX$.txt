@@ -1,0 +1,7 @@
+///<'ace_fcs.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\fcs
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'C1AAF08DF82172EFA24B69683FAC21FAB3C8253C'
+//////</properties>//////

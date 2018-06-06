@@ -1,0 +1,7 @@
+///<'ace_laserpointer.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\laserpointer
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '68E8D242FE31A4E27467EB4EF9562F8CED6031BC'
+//////</properties>//////

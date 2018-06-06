@@ -1,0 +1,6 @@
+///<'hlc_ace3_compat_SAW.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=NIArms_repo\trunk\Compatibility\hlc_ace3_compat_SAW
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: '047804BA5AA6C760683EEC349F1FAE98578B7145'
+//////</properties>//////

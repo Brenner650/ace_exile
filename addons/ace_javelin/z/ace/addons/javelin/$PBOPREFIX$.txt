@@ -1,0 +1,7 @@
+///<'ace_javelin.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\javelin
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '44A2AB7FFB987519C357A6AFCF1505504CE9054E'
+//////</properties>//////

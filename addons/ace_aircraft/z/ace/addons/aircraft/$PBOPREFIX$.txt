@@ -1,0 +1,7 @@
+///<'ace_aircraft.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\aircraft
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '4B0B73EC83C8F34FB6A2D601EBE9A1D4E25BD2F2'
+//////</properties>//////

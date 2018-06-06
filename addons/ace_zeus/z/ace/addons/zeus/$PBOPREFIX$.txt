@@ -1,0 +1,7 @@
+///<'ace_zeus.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\zeus
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '03D009A2301BC1BFACCCF4459D1089D5B86D29D5'
+//////</properties>//////

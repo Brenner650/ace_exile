@@ -1,0 +1,7 @@
+///<'ace_attach.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\attach
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '288BDEFA299875E069C9E5C8E5701604BB6BC509'
+//////</properties>//////

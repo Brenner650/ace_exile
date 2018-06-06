@@ -1,0 +1,7 @@
+///<'ace_spectator.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\spectator
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'E33359FD1B84BA14CD770B26C35319597F626072'
+//////</properties>//////

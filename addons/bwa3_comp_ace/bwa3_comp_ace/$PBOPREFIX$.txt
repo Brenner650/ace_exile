@@ -1,0 +1,5 @@
+///<'bwa3_comp_ace.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=bwa3_comp_ace
+//Pbo Type is: Arma Addon
+//Sha: '21CC0227DC21A821F4576DA08D7FD2A5A31817F4'
+//////</properties>//////

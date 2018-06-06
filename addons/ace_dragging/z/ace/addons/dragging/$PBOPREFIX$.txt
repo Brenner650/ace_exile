@@ -1,0 +1,7 @@
+///<'ace_dragging.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\dragging
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '0B64E65DADE57C73042331E183682DB735E6C5CB'
+//////</properties>//////

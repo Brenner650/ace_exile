@@ -1,0 +1,7 @@
+///<'ace_tracers.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\tracers
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'E9E65DDC058004BE16D89EBE4D0351F98EAA926C'
+//////</properties>//////

@@ -1,0 +1,7 @@
+///<'ace_reload.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\reload
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'A253B0B86A6A7C62B0E687ECF4649B7F0E2DBB7D'
+//////</properties>//////

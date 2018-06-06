@@ -1,0 +1,7 @@
+///<'ace_missionmodules.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\missionmodules
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'C96A3CB78819A8128753BBAD532709F0C8EFFC1A'
+//////</properties>//////

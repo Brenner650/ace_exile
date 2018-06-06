@@ -1,0 +1,7 @@
+///<'ace_advanced_fatigue.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\advanced_fatigue
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'F1B7D20AB8CBF2485EB9F5BC09BEF78CC8D3A962'
+//////</properties>//////

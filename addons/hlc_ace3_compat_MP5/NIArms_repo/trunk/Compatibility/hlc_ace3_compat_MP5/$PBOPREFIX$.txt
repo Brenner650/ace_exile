@@ -1,0 +1,6 @@
+///<'hlc_ace3_compat_MP5.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=NIArms_repo\trunk\Compatibility\hlc_ace3_compat_MP5
+Mikero=DePbo.dll
+//Pbo Type is: Arma Addon
+//Sha: '9E0525F277BDD4A5A122A1BBE9D482ABC687906A'
+//////</properties>//////

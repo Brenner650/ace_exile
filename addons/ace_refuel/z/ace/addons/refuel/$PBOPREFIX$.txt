@@ -1,0 +1,7 @@
+///<'ace_refuel.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\refuel
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '7EAE91DB2C4A1830B56821D6774043BAEE1C89DF'
+//////</properties>//////

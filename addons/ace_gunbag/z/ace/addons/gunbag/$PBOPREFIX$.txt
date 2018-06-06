@@ -1,0 +1,7 @@
+///<'ace_gunbag.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\gunbag
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'FD2380E0CA2A07BDEACD853CDD6B1F7B54CDA17C'
+//////</properties>//////

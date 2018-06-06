@@ -1,0 +1,7 @@
+///<'ace_safemode.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\safemode
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'C951DE5EC8FD31EEEC0F959B3BC89E919EBA18EB'
+//////</properties>//////

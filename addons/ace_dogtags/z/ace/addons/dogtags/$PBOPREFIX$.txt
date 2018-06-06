@@ -1,0 +1,7 @@
+///<'ace_dogtags.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\dogtags
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '12666CF8263FE19FD76C352BC0487766F6E16C12'
+//////</properties>//////

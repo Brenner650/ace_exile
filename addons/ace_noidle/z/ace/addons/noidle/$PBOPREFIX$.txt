@@ -1,0 +1,7 @@
+///<'ace_noidle.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\noidle
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'F09198F70481A9E78148DEC3A642B41AC4905409'
+//////</properties>//////

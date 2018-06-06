@@ -1,0 +1,7 @@
+///<'ace_mk6mortar.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\mk6mortar
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '9D79BD5834D273ECF828B4FBA0EFC069DB7D6602'
+//////</properties>//////

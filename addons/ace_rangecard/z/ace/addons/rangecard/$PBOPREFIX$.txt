@@ -1,0 +1,7 @@
+///<'ace_rangecard.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\rangecard
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '7D340474C49A72CFE40597A60854669D9F4D9AA7'
+//////</properties>//////

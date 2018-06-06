@@ -1,0 +1,7 @@
+///<'ace_fonts.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\fonts
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: '6922444CB0A5619A21DA14E7C2D98D2D5FDBA228'
+//////</properties>//////

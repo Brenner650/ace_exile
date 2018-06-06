@@ -1,0 +1,7 @@
+///<'ace_tacticalladder.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=z\ace\addons\tacticalladder
+Mikero=DePbo.dll.6.44
+version=3ca1bd77
+//Pbo Type is: Arma Addon
+//Sha: 'A2EAA1D600FBBB9BA7DA9D72C4894D6DE41A781E'
+//////</properties>//////
